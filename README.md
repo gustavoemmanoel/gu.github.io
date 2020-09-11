@@ -1,2 +1,2 @@
-# gu.github.io
+# http://gu.github.io
 jhuhuighykugyu
